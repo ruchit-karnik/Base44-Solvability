@@ -18,7 +18,7 @@ It uses personalised 20–30 minute assessments to encourage active recall and h
 ## Recognition
 
 **Most Popular App Award**  
-Vibe Coding Club x Base44 Build Night, 2026
+Vibe Coding Club x Base44 Build Night, 1st October 2026
 
 ## Built With
 
